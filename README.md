@@ -1,4 +1,5 @@
 📊 AI Adoption Across Industries – Power BI Dashboard
+
 📌 Project Overview
 
 This project analyzes AI adoption across different industries, countries, and company sizes using Power BI.
